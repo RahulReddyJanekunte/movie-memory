@@ -181,3 +181,5 @@ Global state libraries were avoided to keep the project lightweight.
 - Used ChatGPT to sanity-check the NextAuth + Prisma Adapter configuration for App Router
 
 All architecture decisions, code structure, and implementation were written and reviewed manually.
+
+`Done by Rahul Reddy Janekunte`
